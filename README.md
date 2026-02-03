@@ -22,46 +22,12 @@
 
 ---
 
-## 🎨 Preview
+## 🎬 Demo
 
 <div align="center">
-  <p><b>← Scroll horizontally to explore all sections →</b></p>
+  <img src="./demo.gif" alt="Pixel Studio Demo" width="800">
+  <p><i>Full website walkthrough</i></p>
 </div>
-
-<div align="center" style="overflow-x: auto; white-space: nowrap; padding: 20px;">
-  <img src="./screenshots/01-hero.png" alt="Hero Section" width="700" style="display: inline-block; margin: 10px; border-radius: 12px; box-shadow: 0 20px 40px rgba(0,255,136,0.2);">
-  <img src="./screenshots/02-work.png" alt="Featured Work" width="700" style="display: inline-block; margin: 10px; border-radius: 12px; box-shadow: 0 20px 40px rgba(0,255,136,0.2);">
-  <img src="./screenshots/03-services.png" alt="Services" width="700" style="display: inline-block; margin: 10px; border-radius: 12px; box-shadow: 0 20px 40px rgba(0,255,136,0.2);">
-  <img src="./screenshots/04-about.png" alt="About" width="700" style="display: inline-block; margin: 10px; border-radius: 12px; box-shadow: 0 20px 40px rgba(0,255,136,0.2);">
-  <img src="./screenshots/05-team.png" alt="Team" width="700" style="display: inline-block; margin: 10px; border-radius: 12px; box-shadow: 0 20px 40px rgba(0,255,136,0.2);">
-  <img src="./screenshots/06-contact.png" alt="Contact" width="700" style="display: inline-block; margin: 10px; border-radius: 12px; box-shadow: 0 20px 40px rgba(0,255,136,0.2);">
-</div>
-
----
-
-## 📸 Screenshots
-
-| Hero Section | Featured Work | Services |
-|:---:|:---:|:---:|
-| ![Hero](./screenshots/01-hero.png) | ![Work](./screenshots/02-work.png) | ![Services](./screenshots/03-services.png) |
-
-| About Us | Our Team | Contact |
-|:---:|:---:|:---:|
-| ![About](./screenshots/04-about.png) | ![Team](./screenshots/05-team.png) | ![Contact](./screenshots/06-contact.png) |
-
-<details>
-<summary>📱 <b>View More Screenshots</b></summary>
-
-### Process Timeline
-![Process](./screenshots/07-process.png)
-
-### Testimonials
-![Testimonials](./screenshots/08-testimonials.png)
-
-### Awards & Recognition
-![Awards](./screenshots/09-awards.png)
-
-</details>
 
 ---
 
